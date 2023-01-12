@@ -1,0 +1,61 @@
+#                                                   _
+#  __ _ _ __         __ _  ___ _ __   ___ _ __ __ _| |_ ___  _ __
+# / _` | '_ \ _____ / _` |/ _ \ '_ \ / _ \ '__/ _` | __/ _ \| '__|
+#| (_| | | | |_____| (_| |  __/ | | |  __/ | | (_| | || (_) | |
+# \__,_|_| |_|      \__, |\___|_| |_|\___|_|  \__,_|\__\___/|_|
+#                   |___/
+# Konfigurationsdatei für Tätigkeiten
+# 
+# Optionen:
+# 
+#	:visible=[true/false]
+#	:random=[true/false]
+#	:box=[1/2/3]
+#
+
+[Support]
+:visible=false
+:box=1
+bla
+blabla
+blablabla
+
+[Support2]
+:visible=false
+:box=1
+bla3
+blabla23
+blablabla1
+bla3tre
+blabla23ewt
+blablabtrela1
+brewla3
+blablrewa23
+
+ 
+[Produktion]
+:visible=false
+bla
+shit
+blablbla
+
+[sad]
+hkhkhk
+jljlk
+
+[Support]
+:visible=false
+:box=1
+bla
+blabla
+blablabla
+ 
+[Produktion]
+:visible=false
+bla
+shit
+blablbla
+
+[sad]
+hkhkhk
+jljlk
